@@ -1,0 +1,6 @@
+robust dA 188713.0 years 1390 long-run rel 0.9 | share of years: 12/12 months ok 0.358 >=11/12 0.632 | mean-year import months 0 | min month-end storage in mean year (m3) 12964 | P(main store empty at month end) 0.107
+  distribution of failure months per year: {0: 0.358, 1: 0.274, 2: 0.231, 3: 0.093, 4: 0.038, 5: 0.005, 6: 0.001}
+  mean-year month-end storage (m3): [65370, 36469, 17803, 12964, 41524, 64965, 83962, 113195, 136144, 136144, 127393, 93823]
+mean-year dA 95730.0 years 1390 long-run rel 0.835 | share of years: 12/12 months ok 0.208 >=11/12 0.419 | mean-year import months 1 | min month-end storage in mean year (m3) 0 | P(main store empty at month end) 0.173
+  distribution of failure months per year: {0: 0.208, 1: 0.212, 2: 0.24, 3: 0.171, 4: 0.109, 5: 0.037, 6: 0.017, 7: 0.005, 8: 0.002}
+  mean-year month-end storage (m3): [60071, 29946, 8435, 0, 19198, 34090, 45241, 65006, 112674, 136144, 123872, 89818]

@@ -1,0 +1,9 @@
+Discussion-paper inputs: annual rainfall 1195.2 mm, eta 0.80, K 117239 m2, watershed inflow 140020 m3/yr
+Quantity                                        Printed   Reproduced     Diff
+Structural annual deficit (m3/yr)                46,432       46,430    -0.0%
+Mean-year design, no added storage (m2)         206,500      206,670     0.1%
+Mean-year design, +20,000 m3 (m2)                93,600       93,506    -0.1%
+Robust design, +20,000 m3 (m2)                  147,400      148,069     0.5%
+Long-run reliability, mean-year design             0.83        0.827   -0.003
+Long-run reliability, robust design                0.90        0.900   -0.000
+REPRO det0 206670 det20 93506 rob20 148069

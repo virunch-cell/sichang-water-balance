@@ -1,0 +1,23 @@
+parameter,value,unit,description
+C_roof,0.85,-,roof runoff coefficient
+eta,0.9,-,rooftop collection efficiency
+A_roof,245000,m2,connected roof area (Method A)
+A_res,34335,m2,open-water surface at full pool (=W2)
+C_ws,0.31,-,weighted watershed runoff coefficient
+A_ws,267406,m2,effective watershed area to reservoir
+V_tank,5650,m3,household cistern capacity
+V_main0,116144,m3,main-system baseline capacity
+GW_max,1440,m3/month,sustainable groundwater
+PWA_daily,1500,m3/day,barged import limit
+CV_annual,0.1342,-,CV of the annual factor; calibrated so the realised annual CV equals the observed 0.231 (1985-2025)
+CV_month,0.38-1.82,-,month-specific gamma multiplier CV; set so the monthly CV equals the observed 0.41-1.84 (file 10)
+open_water_evap_annual,1359,mm/year,mean Class A pan of Chon Buri and Phatthaya (TMD 2023; 1698 mm) x pan coefficient
+pan_coefficient,0.80,-,Class A pan to open water (Rittima et al. 2013; 0.60-0.85 tested)
+K_eff,117133,m2,C_ws*A_ws + A_res
+V_current,600000,visitors/yr,current visitors (assumed; 500000-800000 range)
+V_future,900000,visitors/yr,stress-test scenario (not a forecast)
+labour_fraction,0.5,-,transient labour as share of EMV (assumption)
+wp_dry,0.12,m3/person/day,Nov-Apr (RID manual; tambon municipality)
+wp_wet,0.10,m3/person/day,May-Oct (Ko Si Chang Municipality; personal communication)
+tourism_base_future,122040,m3/yr,EMV share 30.29% x 402851
+reliability_target,0.9,-,robust design reliability

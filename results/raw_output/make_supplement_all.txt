@@ -1,0 +1,10 @@
+OK   sc.py: eta = 0.90
+OK   baseline robust catchment 188,713 (rho 0 = seed 1)
+OK   four pan coefficients parsed
+OK   Kp 0.80 -> 0.865 / 0.832 / 0.834 / 0.807 and 287,362 / 457,094 (paper Sect. 4.6)
+OK   stress test: deficit 32,558, demand 402,851, Ptot 10,173, robust 188,713
+OK   constant wp: 0.11 reproduces the paper demand
+OK   RCP4.5 climatology: table equals file 05
+OK   RCP4.5 sensitivity parsed
+OK   RCP4.5 table: annual 1,168.2 and 1,162.0
+saved ../results/Supplement_tables_all.docx; problems: none

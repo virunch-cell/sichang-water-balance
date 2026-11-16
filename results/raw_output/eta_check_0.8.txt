@@ -1,0 +1,7 @@
+eta 0.8 C*eta 0.68
+rooftop potential 193106 deficit 56696
+T6 cur {'used': 171621, 'spill': 21485, 'imp_days': np.float64(12.0), 'rel': 0.83, 'res': 0.5, 'vul': 8987}
+T6 fut {'used': 182925, 'spill': 10181, 'imp_days': np.float64(52.3), 'rel': 0.67, 'res': 0.25, 'vul': 19599}
+dV 0 mean-year 283565 rel of it 0.86 | robust 0.90 476261 ratio 1.68
+dV 20000 mean-year 138321 rel of it 0.84 | robust 0.90 244747 ratio 1.77
+dV 40000 mean-year 104946 rel of it 0.837 | robust 0.90 166939 ratio 1.59

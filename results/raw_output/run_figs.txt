@@ -1,0 +1,15 @@
+{'dV': 0, 'rel085': 193127, 'rel090': 388282, 'rel095': 600000, 'mean_year': 224835}
+{'dV': 10000, 'rel085': 142296, 'rel090': 265286, 'rel095': 600000, 'mean_year': 160283}
+{'dV': 20000, 'rel085': 110793, 'rel090': 188713, 'rel095': 400448, 'mean_year': 95730}
+{'dV': 40000, 'rel085': 82191, 'rel090': 126659, 'rel095': 217046, 'mean_year': 76899}
+{'dV': 80000, 'rel085': 63143, 'rel090': 89364, 'rel095': 131578, 'mean_year': 76899}
+{'parameter': 'Per-capita use', 'deficit_-20': -48013, 'robust_-20': 21507, 'deficit_-10': -7727, 'robust_-10': 86763, 'deficit_+10': 72843, 'robust_+10': 370545, 'deficit_+20': 113128, 'robust_+20': 613199}
+{'parameter': 'Tourism demand', 'deficit_-20': 8150, 'robust_-20': 121457, 'deficit_-10': 20354, 'robust_-10': 149400, 'deficit_+10': 44762, 'robust_+10': 236668, 'deficit_+20': 56966, 'robust_+20': 291388}
+{'parameter': 'Roof area', 'deficit_-20': 76006, 'robust_-20': 242350, 'deficit_-10': 54282, 'robust_-10': 214582, 'deficit_+10': 10833, 'robust_+10': 165338, 'deficit_+20': -10891, 'robust_+20': 142883}
+{'parameter': 'Runoff coefficient', 'deficit_-20': 59711, 'robust_-20': 219336, 'deficit_-10': 46135, 'robust_-10': 204025, 'deficit_+10': 18981, 'robust_+10': 173402, 'deficit_+20': 5404, 'robust_+20': 158090}
+{'parameter': 'Groundwater yield', 'deficit_-20': 36014, 'robust_-20': 191630, 'deficit_-10': 34286, 'robust_-10': 190254, 'deficit_+10': 30830, 'robust_+10': 187290, 'deficit_+20': 29102, 'robust_+20': 186169}
+[{'evaporation': 'none', 'uniform': np.float64(0.9), 'seasonal': np.float64(0.867)}, {'evaporation': 'level', 'uniform': np.float64(0.865), 'seasonal': np.float64(0.834)}, {'evaporation': 'const', 'uniform': np.float64(0.832), 'seasonal': np.float64(0.807)}]
+annual loss 29916 design 188713
+plot ok
+plots ok
+ALLDONE

@@ -1,0 +1,4 @@
+paper 0.12/0.10  demand  402851  deficit    32558  robust catchment (0.90)   188713
+constant 0.10    demand  366228  deficit    -4065  robust catchment (0.90)    73486
+constant 0.11    demand  402851  deficit    32558  robust catchment (0.90)   141474
+constant 0.12    demand  439474  deficit    69180  robust catchment (0.90)   242603

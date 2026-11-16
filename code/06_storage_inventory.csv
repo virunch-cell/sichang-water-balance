@@ -1,0 +1,7 @@
+store,capacity_m3,source,role_in_model
+main_reservoir,83000,watershed_runoff,main_system
+natural_ponds_x4,29744,watershed_runoff,main_system
+water_bank,3400,pumped_from_ponds,extends_pond_capacity
+household_cisterns,5650,rooftop_harvest,cistern_subsystem
+groundwater,1440,aquifer,supplementary_per_month
+PWA_import,1500,mainland_barged,external_per_day

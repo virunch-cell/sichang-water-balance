@@ -1,0 +1,7 @@
+generator, seed 11, 100,000 years: annual mean 1160 mm, realised annual CV 0.231, 10th percentile 840 mm, 5th 770, 1st 655
+monthly mean [ 18.2  17.4  40.1  70.6 131.8 120.2 110.4 133.2 250.7 211.6  49.3   6.8]
+monthly CV   [1.85 1.56 1.11 1.07 0.42 0.64 0.59 0.59 0.41 0.44 1.04 1.78]
+observed monthly CV (input) [1.84 1.56 1.11 1.07 0.42 0.64 0.59 0.59 0.41 0.44 1.04 1.78]
+CVA 0.1342 ; gamma multiplier CV by month [1.819 1.54  1.092 1.052 0.394 0.62  0.569 0.569 0.384 0.415 1.022 1.759]
+lag-1 autocorr of annual totals 0.002 (rho=0)
+P(month rain < 5 mm): [0.52 0.45 0.15 0.09 0.   0.   0.   0.   0.   0.   0.11 0.67]

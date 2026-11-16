@@ -1,0 +1,21 @@
+K 117133 inflow 135769
+T6 cur {'used': 186071, 'spill': 31173, 'inflow': 135769, 'imp_days': np.float64(3.3), 'rel': 0.92, 'res': 1.0, 'vul': 4964}
+T6 fut {'used': 197454, 'spill': 19790, 'inflow': 135769, 'imp_days': np.float64(43.5), 'rel': 0.75, 'res': 0.33, 'vul': 21769}
+4.1 rooftop 217244 inflow 135769 sum 370293 deficit 32558
+T7 det 95730 rel 0.835 imp d 23.0
+T7 rob 188713 rel 0.9 imp d 12.6
+det dV=0: 224835
+   100 0.881 0.019
+   250 0.909 0.012
+   500 0.898 0.009
+   1000 0.908 0.006
+   1390 0.903 0.005
+   2000 0.904 0.004
+   3000 0.906 0.003
+   5000 0.904 0.003
+T10 robust catchment (baseline seed11): 188713
+  Per-capita use [21507, 86763, 370545, 613199]
+  Tourism demand [121457, 149400, 236668, 291388]
+  Roof area [242350, 214582, 165338, 142883]
+  Runoff coefficient [219336, 204025, 173402, 158090]
+  Groundwater yield [191630, 190254, 187290, 186169]

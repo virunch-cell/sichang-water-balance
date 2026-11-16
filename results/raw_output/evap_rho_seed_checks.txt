@@ -1,0 +1,17 @@
+== A. open-water evaporation = mean pan x Kp; robust design 188713.0
+Kp 0.60 annual 1019 mm | rel level 0.874 / const 0.848 | with seasonal tourism level 0.842 / const 0.820 | catch0.90 level 259819, level+seasonal 411744
+Kp 0.70 annual 1189 mm | rel level 0.869 / const 0.840 | with seasonal tourism level 0.839 / const 0.813 | catch0.90 level 274641, level+seasonal 432857
+Kp 0.80 annual 1359 mm | rel level 0.865 / const 0.832 | with seasonal tourism level 0.834 / const 0.807 | catch0.90 level 287362, level+seasonal 457094
+Kp 0.85 annual 1444 mm | rel level 0.863 / const 0.828 | with seasonal tourism level 0.832 / const 0.804 | catch0.90 level 293320, level+seasonal 468170
+mean annual evaporation loss (Kp 0.80, level-dependent): 29855 m3/yr
+== B. AR(1) persistence of log annual multiplier (robust catchment @0.90)
+rho 0 188713
+rho 0.25 186796
+rho 0.5 189580
+rho 0.7 190510
+== C. seeds (robust catchment @0.90)
+[188713, 163252, 183657, 184391, 180426, 180029] mean 180078 sd 8823
+== D. RCP4.5 (file 05 monthly climatology, single GCM)
+robust catchment hist 188713 ; RCP4.5 130974
+reliability of 188713 design: hist 0.900 ; RCP4.5 0.931
+reliability of mean-year design 95,730: hist 0.835 ; RCP4.5 0.870

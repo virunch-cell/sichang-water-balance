@@ -1,0 +1,47 @@
+PASS  Discussion paper (its inputs): mean-year design 206,500 / 93,600 m2 and robust design 147,400 m2 reproduced within 1 %
+PASS  Table 2 / data file 03: annual demand, current case 328,244 m3
+PASS  Table 2 / data file 03: annual demand, stress test 402,851-402,852 m3
+PASS  Sect 4.1: rooftop potential 217,244; local supply 370,293; structural deficit 32,558 m3/yr
+PASS  Table 3, current demand: used 186,071, spill 31,173, 3.3 import days, rel 0.92, res 1.00, vul 4,964
+PASS  Table 3, stress test: used 197,454, spill 19,790, 43.5 import days, rel 0.75, res 0.33, vul 21,769
+PASS  Table 4: mean-year design 95,730 m2, reliability 0.835, 23 import days
+PASS  Table 4: robust design 188,713 m2, reliability 0.900, 12.6 (~13) import days
+PASS  Fig. 6: mean-year design without added storage 224,835 m2
+PASS  Table S7: N = 100  reliability 0.881  half-width 0.019
+PASS  Table S7: N = 250  reliability 0.909  half-width 0.012
+PASS  Table S7: N = 500  reliability 0.898  half-width 0.009
+PASS  Table S7: N = 1000  reliability 0.908  half-width 0.006
+PASS  Table S7: N = 1390  reliability 0.903  half-width 0.005
+PASS  Table S7: N = 2000  reliability 0.904  half-width 0.004
+PASS  Table S7: N = 3000  reliability 0.906  half-width 0.003
+PASS  Table S7: N = 5000  reliability 0.904  half-width 0.003
+PASS  Table S13: Per-capita use [-48013, -7727, 72843, 113128]
+PASS  Table S13: Roof area [76006, 54282, 10833, -10891]
+PASS  Table S13: Runoff coefficient [59711, 46135, 18981, 5404]
+PASS  Table S13: Tourism demand [8150, 20354, 44762, 56966]
+PASS  Table S13: Groundwater yield [36014, 34286, 30830, 29102]
+PASS  Table S14: Per-capita use [21507, 86763, 370545, 613199]
+PASS  Table S14: Tourism demand [121457, 149400, 236668, 291388]
+PASS  Table S14: Roof area [242350, 214582, 165338, 142883]
+PASS  Table S14: Runoff coefficient [219336, 204025, 173402, 158090]
+PASS  Table S14: Groundwater yield [191630, 190254, 187290, 186169]
+PASS  Table S16: none evaporation  uniform 0.9  seasonal 0.867
+PASS  Table S16: level evaporation  uniform 0.865  seasonal 0.834
+PASS  Table S16: const evaporation  uniform 0.832  seasonal 0.807
+PASS  Sect. 4.6: catchment for 0.90 with evaporation and seasonal tourism 457,094 m2
+PASS  Sect. 4.6: catchment for 0.90 with evaporation only 287,362 m2
+PASS  Sect. 4.5 / Table S15: RCP4.5 robust catchment 130,974 m2
+PASS  Table S5: rho = 0.5 gives 189,580 m2
+PASS  Fig. 6 frontier: added storage 0 m3 -> robust (0.90) 388282 m2
+PASS  Fig. 6 frontier: added storage 10000 m3 -> robust (0.90) 265286 m2
+PASS  Fig. 6 frontier: added storage 20000 m3 -> robust (0.90) 188713 m2
+PASS  Fig. 6 frontier: added storage 40000 m3 -> robust (0.90) 126659 m2
+PASS  Fig. 6 frontier: added storage 80000 m3 -> robust (0.90) 89364 m2
+PASS  Figs. 7-8: robust design, 1,390 years, long-run reliability 0.9, 63 % of years with at most one import month
+PASS  Figs. 7-8: mean-year design, long-run reliability 0.835, 42 % of years with at most one import month
+PASS  Table S6: baseline (seed 11) and mean of six samples 180,078 m2
+PASS  Table S17: pan coefficient 0.80 -> reliability 0.865 / 0.832 (level / constant)
+PASS  Table S4 / Sect. 3.7: generator mean 1,160 mm, annual CV 0.231, annual factor CV 0.1342, lag-1 autocorrelation ~0
+PASS  Supplement tables: internal consistency checks passed ("problems: none")
+
+45 of 45 checks passed

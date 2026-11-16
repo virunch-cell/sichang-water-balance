@@ -1,0 +1,10 @@
+landuse_class,code,area_m2,area_km2
+Deciduous forest,F2,4449961,4.45
+"City, town, commercial",U1,963663,0.964
+Industrial land,U5,419024,0.419
+Institutional land,U3,164130,0.164
+Communication / utility,U4,56486,0.056
+"Mine, pit",M3,120669,0.121
+Natural water body,W1,244701,0.245
+"Artificial water body (reservoir, ponds)",W2,34335,0.034
+Built-up total (U1+U3+U4+U5),U,1603303,1.603
